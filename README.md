@@ -1,2 +1,2 @@
 # StockExchangeGame
-A Companion to a IRL Game.
+A companion app to an IRL Game.
